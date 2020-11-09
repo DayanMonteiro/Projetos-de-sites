@@ -7,11 +7,11 @@ site para modelo fictícia Anna Bella, onde foi aplicado as matérias do módulo
 # Chalé Hotel
 Projeto de site para rede de hoteis, praticando CSS3 aperfeiçoando meu estudos de menus e paginação em geral.
 
-#Notícia Cidade
+# Notícia Cidade
 
 Site de um jornal, onde foi explorado vários conceitos intermediários de CSS3. Construindo um modelo de site com menu de navegação horizontal, menu lateral e multiplas páginas.
 
-#Tec Blog
+# Tec Blog
 
 Explorando o desenvolvimento de site no formato de blog.
 
