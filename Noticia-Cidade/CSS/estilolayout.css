@@ -1,0 +1,82 @@
+body{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #f2f2f2;
+}
+
+#container {
+    width: 960px;/*para layouts liquidos definiremos width em %*/
+    margin: 0 auto; /* lembrando que o auto centraliza o conteúdo*/
+    background: #fff url(../imagens/coluna.png)repeat-y left top;
+    min-width: 720px ; /* define uma largura minima para o container  */
+    max-width: 1280px; /* define a largura maxima para o container */
+}
+
+#marca {
+    width: 100%;
+    height: 200px;/*altura*/
+    background: #225992 url(../imagens/cabecalho2.jpg) no-repeat center;/*fundo*/
+    text-align: center;/*texto centralizado*/
+    line-height: 200px; /*espaçamento entre as linhas*/
+}
+
+/* #imagem {
+    width: 90%;
+    overflow: hidden; /* ele vai prender a imagem dentro do espaço da caixa que ela se encontra ... o objeto não vai passar dos limites q vc determinou no box pai...
+}*/
+
+#conteudo {
+    width: 75%;/* 520px daria 75%*/
+    float: right; /*para posionar o conteúdo a direita*/
+}
+
+#conteudo-principal {
+    width: 64%;/*320px para 64% */
+    float: left;
+}
+
+img.img-noticia {
+    width: 94%;
+    padding: 2%;
+    max-width: 600px;
+}
+
+#conteudo-secundario {
+    width: 34%;
+    float: right;
+    background: #d1d1d1;
+}
+
+#conteudo-secundario h1,
+#conteudo-secundario h2,
+#conteudo-secundario h3,
+#conteudo-secundario p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*OBS ao somar 320px do conteudo principal com 120 do secundário*/
+
+#navegacao {
+    width: 23%; /*180px daria 25%*/
+    float: left; /*para posicionar o conteudo a esquerda e assim navegação ficará de um lado e conteúdo do outro*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*background: #d1d1d1;*/
+}
+
+#navegacao ul {
+    list-style: none;
+}
+
+#navegacao li a {
+    text-decoration: none;
+}
+
+/* OBS nossa width do container tem 720ps nossa width do conteudo tem 520px e da vavegação tem 180px oou seja sobram 20px esses serão o espaçamento entre as duas */
+
+#rodape {
+    clear: both; /*limpa a propriedade flutuante*/
+    background: #c4c4c4;
+    padding: 5px;
+}
+

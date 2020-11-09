@@ -1,0 +1,33 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+table {
+    width: 600px; /*definir a largura da tabela*/
+    border-collapse: separate; /*controla o espaçamento das bordas da tabela se usar collapse elas ficam unidas com 1px, se eu quiser um espaçamento uso separate que deixará uma borda separada por 2px */
+}
+
+th, td {
+    padding: 7px; /*para controlar o espaçamento interno das casas da tabela*/
+}
+
+th {
+    text-transform: uppercase; /* o uppercase deixa todas as letras do texto em maiúsculas do */
+    border-top: 1px solid #999; /*alterando a cor da linha superior da tabela*/
+    border-bottom: 1px solid #111;/*alterando a cor da linha inferior da tabela*/
+    text-align: left; /*alinhar o texto a esquerda*/
+    font-size: 90%; /*alterand o tamanho da letra do cabeçalho*/
+    letter-spacing: 0.1em; /*espaçamento entre as letras*/
+}
+
+tr.alternado { /*vou criado essa class para que eu alternasse uma linha da tabela em branco e outra em cinza*/
+    background-color: #efefef;
+}
+
+tr:hover {
+    background-color: #c3e6e5;
+}
+
+.numero {
+    text-align: right;
+}
