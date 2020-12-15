@@ -7,6 +7,8 @@ site para modelo fictícia Anna Bella, onde foi aplicado as matérias do módulo
 # Chalé Hotel
 Projeto de site para rede de hoteis, praticando CSS3 aperfeiçoando meu estudos de menus e paginação em geral.
 
+![layout](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/chale-hotel.jpg)
+
 # Notícia Cidade
 
 Site de um jornal, onde foi explorado vários conceitos intermediários de CSS3. Construindo um modelo de site com menu de navegação horizontal, menu lateral e multiplas páginas.
