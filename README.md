@@ -13,6 +13,9 @@ Projeto de site para rede de hoteis, praticando CSS3 aperfeiçoando meu estudos 
 
 Site de um jornal, onde foi explorado vários conceitos intermediários de CSS3. Construindo um modelo de site com menu de navegação horizontal, menu lateral e multiplas páginas.
 
+![home](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/home.png)
+![brasil](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/Brasil.png)
+
 # Tec Blog
 
 Explorando o desenvolvimento de site no formato de blog.
