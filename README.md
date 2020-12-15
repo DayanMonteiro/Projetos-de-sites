@@ -30,6 +30,5 @@ O efeito Parallax costuma ser simulado com a técnica de mover imagens de fundo 
 
 Site explorando novas tags html5 e recursos de CSS3
 
-![menu e cabeçalho](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/p00.jpg)
-![corpo](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/p01.jpg)
-![rodapé](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/p02.jpg)
+![museu](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/museu-layout.png)
+
