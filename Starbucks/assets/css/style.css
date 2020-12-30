@@ -231,4 +231,39 @@ header .line {
     margin-left: 50px;
 }
 
+.area4 {
+    display: grid;
+    grid-template-columns: 500px 1fr;
+}
 
+.area4 a {
+    margin-top: 50px;
+}
+
+.area4--content {
+    padding: 80px;
+}
+
+.area4 h2 {
+    margin-left: 80px;
+}
+
+.area4--text {
+    margin-bottom: 50px;
+    line-height: 25px;
+    margin-left: 80px;
+}
+
+.area4 .bar {
+    margin-left: 80px;
+    margin-top: 150px;
+}
+
+.area4 a {
+    margin-left: 80px; 
+}
+.area4--img1 {
+    background-image: url(../img/bg3.jpg);
+    background-position: left;
+
+}
