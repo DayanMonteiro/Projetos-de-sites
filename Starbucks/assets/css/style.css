@@ -233,37 +233,56 @@ header .line {
 
 .area4 {
     display: grid;
-    grid-template-columns: 500px 1fr;
+    grid-template-columns: 450px 1fr;
+    background-color: #e8e9ee;
 }
 
 .area4 a {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .area4--content {
-    padding: 80px;
+    padding: 150px 80px;
 }
 
 .area4 h2 {
-    margin-left: 80px;
+    margin-left: 170px;
 }
 
 .area4--text {
     margin-bottom: 50px;
     line-height: 25px;
-    margin-left: 80px;
+    margin-left: 170px;
 }
 
 .area4 .bar {
-    margin-left: 80px;
-    margin-top: 150px;
+    margin-left: 170px;
+    margin-top: 170px;
 }
 
 .area4 a {
-    margin-left: 80px; 
+    margin-left: 170px; 
 }
 .area4--img1 {
     background-image: url(../img/bg3.jpg);
     background-position: left;
+
+}
+
+/* Area 5 */
+
+.area5 {
+    background-image: url(../img/bg4.jpg);
+    background-size: cover;
+    background-position-x: center;
+    height: 750px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 80px;
+    text-align: center;
 
 }
