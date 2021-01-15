@@ -32,3 +32,7 @@ Site explorando novas tags html5 e recursos de CSS3
 
 ![museu](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/museu-layout.png)
 
+# Starbucks
+
+![Starbucks](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/layout.png)
+
