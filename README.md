@@ -34,5 +34,8 @@ Site explorando novas tags html5 e recursos de CSS3
 
 # Starbucks
 
+Aproveitando o layout desse projeto para treinar grid no css
+
 ![Starbucks](https://github.com/DayanMonteiro/Projetos-de-sites/blob/master/layout.png)
+
 
